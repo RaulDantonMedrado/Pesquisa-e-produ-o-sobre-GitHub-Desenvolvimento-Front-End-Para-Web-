@@ -296,25 +296,22 @@ Para acessá-lo:
 
 Abra o repositório.
 
-Localize a opção Activity ou o link de commits, conforme a interface apresentada.
+Localize a opção History ou o link de commits, conforme a interface apresentada.
 
 Clique para visualizar os registros.
 
-<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/982e082d-3cc1-4072-bd27-c6f7658bbfd7" />
-
 Observe as mensagens, os autores e as datas.
 
-Clique em um commit para consultar os arquivos modificados.
+
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/2078807b-610a-45d1-9ed7-b7aa4f2f3792" />
+
+Clique em algum commit para consultar os arquivos modificados.
+
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/1a420b24-7810-424b-97ae-d0451c34bb6c" />
 
 Assim, podemos acompanhar a evolução do projeto e identificar as contribuições dos integrantes.
 
-Imagem 02 – Arquivo criado no repositório
-
-[Inserir captura de tela própria.]
-
-Imagem 03 – Histórico de commits
-
-[Inserir captura de tela própria.]
+<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/2f732b32-f46d-4e01-a4ec-2a9daa87b5dc" />
 
 7. COLABORAÇÃO NO GITHUB
 
@@ -330,11 +327,27 @@ Para convidar alguém:
 
 Abra o repositório.
 Acesse Settings (Configurações).
+
+<img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/6b65e136-709a-49bf-a99f-c5921d9a6956" />
+
 Procure a seção Collaborators ou Collaborators and teams, conforme a interface.
+
+<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/d3a2460b-36b2-4635-99c2-705d104fe3e6" />
+
 Clique em Add people.
+
+<img width="1918" height="945" alt="image" src="https://github.com/user-attachments/assets/2686bbb0-52f8-4b8e-9f78-75a114b874db" />
+
 Pesquise o nome de usuário ou e-mail da pessoa.
+
+<img width="1918" height="946" alt="image" src="https://github.com/user-attachments/assets/1d66bb94-6cc8-4114-9311-3dbeecb1f7e4" />
+
 Selecione a conta correta.
+
 Envie o convite.
+
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/0c77186a-0fef-40fb-9e6f-51fdf60de6b5" />
+
 Aguarde a pessoa aceitar.
 
 Depois de aceitar, o colaborador poderá acessar o repositório de acordo com as permissões concedidas.
@@ -354,12 +367,22 @@ Ele pode criar uma branch chamada melhoria-guia, realizar as mudanças nela e ap
 Dessa maneira, o conteúdo principal permanece separado enquanto a alteração está sendo preparada.
 
 7.3 Como criar uma branch pelo navegador
+
 Abra o repositório.
+
 Localize o seletor de branches, normalmente identificado pelo nome main.
+
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/d2a3b70c-63c1-49f8-bc9b-a1b079b9ff89" />
+
 Clique no seletor.
+
 Digite o nome melhoria-guia.
+
 Selecione a opção de criar uma nova branch a partir da branch principal.
+
 Confirme a criação.
+
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/9287223c-0411-4bec-8e19-d1a1f5b93f9c" />
 
 Agora você poderá realizar alterações nessa nova ramificação.
 
@@ -372,26 +395,48 @@ Pull request significa solicitação de alteração ou solicitação de integra�
 Com ele, os integrantes podem:
 
 Visualizar o que foi modificado.
+
 Comparar versões.
+
 Comentar as alterações.
+
 Sugerir correções.
+
 Aprovar a proposta antes da integração.
 
 Exemplo: um integrante melhora uma explicação da cartilha e abre um pull request para que outro estudante revise o conteúdo.
 
 7.5 Como criar um pull request
+
 Acesse a aba Pull requests.
+
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/fb721515-34c4-4f33-9881-dbbf4da0975b" />
+
 Clique em New pull request.
+
+<img width="1919" height="942" alt="image" src="https://github.com/user-attachments/assets/89f5c65e-7a06-4feb-b935-f6888d7de9a3" />
+
 Escolha main como branch base.
+
+<img width="1917" height="944" alt="image" src="https://github.com/user-attachments/assets/4c484553-beb5-46b2-9ed1-80a9aec52ccc" />
+
 Escolha melhoria-guia como branch de comparação.
+
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/2f664f18-0e12-4cc8-8e42-4e9e3193c329" />
+
+<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/82347154-25c6-4fb0-8f91-ce1584690a7e" />
+
 Confira as diferenças apresentadas.
+
 Clique em Create pull request.
+
+<img width="1916" height="940" alt="image" src="https://github.com/user-attachments/assets/3a1d82ad-0ecd-4988-91f8-ee316f84cf6e" />
+
 Escreva um título e uma descrição explicando a mudança.
+
 Confirme a criação.
 
-Imagem 04 – Pull request criado
-
-[Inserir captura de tela própria mostrando a solicitação de revisão.]
+<img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/7afa68a7-7cff-4c5e-a061-60e9b7d8e89d" />
 
 7.6 O que é merge?
 
@@ -404,90 +449,50 @@ Quando um pull request é revisado e considerado adequado, pode ser realizado o 
 Como realizar:
 
 Abra o pull request.
+
+<img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/fb721515-34c4-4f33-9881-dbbf4da0975b" />
+
 Confira os comentários e as alterações.
+
+<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/696dd277-6894-46ae-9efa-266fabc5091b" />
+
 Verifique se a proposta está pronta para ser integrada.
+
 Clique em Merge pull request, se essa opção estiver disponível.
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/96aa9d91-90f1-43b3-a349-0ddb4b1a98ef" />
+
 Confirme a operação.
+
+<img width="1913" height="941" alt="image" src="https://github.com/user-attachments/assets/63917720-0a01-4f16-be11-ddc5160dcbac" />
+
 Volte para a branch main.
+
 Confira se a alteração foi incorporada.
-
-Imagem 05 – Resultado do merge
-
-[Inserir captura de tela própria mostrando a integração concluída.]
 
 8. CUIDADOS AO COMPARTILHAR ARQUIVOS
 
 Antes de publicar qualquer arquivo no GitHub, é importante tomar alguns cuidados.
 
 Não publique senhas.
+
 Não compartilhe tokens de acesso.
+
 Não publique códigos de autenticação.
+
 Evite colocar documentos pessoais.
+
 Confira as informações presentes nas imagens.
+
 Verifique se o conteúdo pode ser divulgado publicamente.
+
 Utilize permissões adequadas para cada colaborador.
+
 Revise os arquivos antes de confirmar as alterações.
 
 Lembre-se: um repositório público pode ser acessado por qualquer pessoa na internet.
 
-9. PRÁTICA E DESAFIO PARA O LEITOR
-
-Agora que você conhece os principais recursos, chegou a hora de praticar!
-
-Desafio: Meu repositório de estudos
-
-Crie um repositório de estudos, escreva um README com seu objetivo e três assuntos que deseja aprender, adicione um arquivo de anotações e registre uma alteração com um commit claro.
-
-Depois, compartilhe o repositório com um colega e confira a contribuição dele.
-
-Passo a passo
-Entre na sua conta do GitHub.
-Crie um repositório chamado meus-estudos.
-Escolha a visibilidade pública ou privada.
-Crie um arquivo README.md.
-Escreva seu objetivo de aprendizagem.
-Acrescente três assuntos que deseja estudar.
-Crie um arquivo chamado anotacoes.md.
-Escreva algumas anotações.
-Registre um commit com uma mensagem clara.
-Convide um colega para participar do repositório.
-Peça que ele faça uma contribuição.
-Consulte o histórico e identifique a alteração realizada.
-Como saber se concluiu?
-
-Confira os seguintes itens:
-
-O repositório foi criado.
-O README apresenta meu objetivo.
-O README contém três assuntos que desejo aprender.
-O arquivo de anotações foi adicionado.
-Registrei pelo menos um commit.
-Compartilhei o repositório com um colega.
-Meu colega conseguiu contribuir.
-Consultei o histórico de alterações.
-9.1 Reflexão sobre a aprendizagem
-
-Após realizar a atividade, reflita:
-
-Qual foi sua maior dificuldade ao utilizar o GitHub?
-Como o compartilhamento facilitou o trabalho em equipe?
-Por que é importante registrar commits?
-Como o pull request ajuda a revisar alterações?
-Qual é a vantagem de utilizar branches?
-10. DIFICULDADES ENCONTRADAS E SOLUÇÕES
-
-Durante a utilização do GitHub, algumas dificuldades podem surgir.
-
-Dificuldade	Possível solução
-Não conseguir acessar o repositório privado.	Verificar se o convite foi aceito e se a conta está correta.
-Não encontrar o arquivo criado.	Atualizar a página e conferir o nome do arquivo.
-Não identificar as alterações.	Consultar o histórico de commits.
-Não encontrar a opção de criar pull request.	Verificar se a branch foi criada e se existe uma diferença em relação à branch principal.
-Não conseguir realizar o merge.	Conferir os conflitos e os requisitos de revisão apresentados pelo GitHub.
-
-As dificuldades realmente encontradas pelo grupo deverão ser registradas no arquivo pratica-colaborativa.md.
-
-11. CONCLUSÃO
+9. CONCLUSÃO
 
 O GitHub é uma ferramenta importante para organizar projetos, acompanhar alterações e facilitar a colaboração entre pessoas.
 
@@ -499,7 +504,7 @@ Mesmo para quem está começando, é possível utilizar diversos recursos do Git
 
 Esperamos que esta cartilha ajude outras pessoas a conhecer e utilizar a plataforma.
 
-12. REFERÊNCIAS E USO DA INTELIGÊNCIA ARTIFICIAL
+10. REFERÊNCIAS E USO DA INTELIGÊNCIA ARTIFICIAL
 Documentação oficial do GitHub
 Introdução e prática Hello World: https://docs.github.com/pt/get-started/using-github/hello-world
 Arquivos nos repositórios: https://docs.github.com/pt/repositories/working-with-files
