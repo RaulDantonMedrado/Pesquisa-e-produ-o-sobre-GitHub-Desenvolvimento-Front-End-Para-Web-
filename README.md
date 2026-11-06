@@ -3,7 +3,6 @@ Desenvolvimento Front-End para Web
 
 **Professora: Eliane Ribeiro**
 
-
 Projeto: Cartilha Digital – Aprendendo GitHub do Zero
 
 Grupo: 19
@@ -47,5 +46,7 @@ Referências
 https://docs.github.com/pt/get-started/using-github/hello-world
 https://docs.github.com/pt/repositories/working-with-files
 https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository
+
+alterado em outro branch
 
 Trabalho acadêmico – Desenvolvimento Front-End para Web.
