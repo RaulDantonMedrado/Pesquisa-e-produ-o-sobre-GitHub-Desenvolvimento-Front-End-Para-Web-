@@ -259,7 +259,13 @@ Aguarde o carregamento.
 <img width="1912" height="944" alt="image" src="https://github.com/user-attachments/assets/8c448faf-7013-4f88-a00d-864b0632dd19" />
 
 Escreva uma mensagem de commit.
+
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/29011822-76a3-47d0-b02f-c86d5626cd9b" />
+
 Confirme em Commit changes.
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f27dd9f2-6402-44aa-8ef6-5130bbb03e3f" />
+
 6.3 O que é commit?
 
 Commit é o registro de uma alteração realizada no projeto.
@@ -271,9 +277,13 @@ Cada commit possui informações que ajudam a identificar o que foi modificado, 
 Exemplos de mensagens:
 
 Adiciona arquivo README.
+
 Corrige introdução da cartilha.
+
 Adiciona imagem do repositório.
+
 Atualiza informações sobre GitHub.
+
 Melhora explicação sobre commits.
 
 Uma mensagem como "alteração" é pouco explicativa. Prefira indicar exatamente o que foi feito.
@@ -285,9 +295,15 @@ O histórico de alterações, também chamado de histórico de commits, permite 
 Para acessá-lo:
 
 Abra o repositório.
-Localize a opção History ou o link de commits, conforme a interface apresentada.
+
+Localize a opção Activity ou o link de commits, conforme a interface apresentada.
+
 Clique para visualizar os registros.
+
+<img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/982e082d-3cc1-4072-bd27-c6f7658bbfd7" />
+
 Observe as mensagens, os autores e as datas.
+
 Clique em um commit para consultar os arquivos modificados.
 
 Assim, podemos acompanhar a evolução do projeto e identificar as contribuições dos integrantes.
