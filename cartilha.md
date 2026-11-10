@@ -1,16 +1,12 @@
 CARTILHA DIGITAL: APRENDENDO GITHUB DO ZERO
 Desenvolvimento Front-End para Web
 
-Professora: Eliane Ribeiro
+Professora: **Eliane Ribeiro**
 
-Integrantes: 
-
-Raul Danton Medrado
-
-Leonardo de Jesus Ferreira
-
-Fernanda de Souza Mendes
-
+Integrantes:\
+**Raul Danton Medrado**\
+**Leonardo de Jesus Ferreira**\
+**Fernanda de Souza Mendes**
 
 Público-alvo: Estudantes e pessoas iniciantes em tecnologia.
 
@@ -18,7 +14,7 @@ Objetivo: Ensinar os conceitos básicos do GitHub e demonstrar como criar reposi
 
 Conhecimentos necessários: Saber utilizar um navegador, acessar sites e criar arquivos de texto. Não é necessário instalar programas ou utilizar o terminal.
 
-1. APRESENTAÇÃO
+**1. APRESENTAÇÃO**
 
 Você já imaginou poder guardar seus projetos na internet, acompanhar todas as alterações realizadas e trabalhar com outras pessoas no mesmo projeto?
 
@@ -30,27 +26,29 @@ O conteúdo foi desenvolvido com linguagem simples, exemplos e orientações que
 
 Ao final, você será capaz de criar seu próprio repositório, adicionar arquivos, registrar commits e compartilhar seu trabalho.
 
-2. INTRODUÇÃO AO GIT E AO GITHUB
+\
+**2. INTRODUÇÃO AO GIT E AO GITHUB**
 
-2.1 O que é Git?
+**2.1 O que é Git?**
 
 Git é um sistema de controle de versão. Ele permite registrar as modificações realizadas nos arquivos de um projeto ao longo do tempo.
 
 Imagine que você esteja criando um trabalho escolar. Durante a produção, altera textos, corrige erros e adiciona informações. Com o Git, é possível acompanhar essas mudanças e identificar versões anteriores.
 
-2.2 O que é GitHub?
+\
+**2.2 O que é GitHub?**
 
 GitHub é uma plataforma online que utiliza o Git para hospedar repositórios e facilitar o desenvolvimento de projetos individuais ou em equipe.
 
-Com ele, podemos:
-
-Guardar arquivos e projetos na internet.
-Compartilhar trabalhos com outras pessoas.
-Acompanhar alterações realizadas.
-Trabalhar em equipe.
+Com ele, podemos:\
+Guardar arquivos e projetos na internet.\
+Compartilhar trabalhos com outras pessoas.\
+Acompanhar alterações realizadas.\
+Trabalhar em equipe.\
 Revisar contribuições antes de incorporá-las ao projeto.
 
-2.3 Qual é a diferença entre Git e GitHub?
+\
+**2.3 Qual é a diferença entre Git e GitHub?**
 
 Apesar de trabalharem juntos, não são a mesma coisa.
 
@@ -60,7 +58,8 @@ GitHub: é uma plataforma online que utiliza o Git para armazenar repositórios 
 
 Exemplo: o Git funciona como um sistema que registra as versões de um trabalho, enquanto o GitHub funciona como um espaço online onde esse trabalho pode ser armazenado e compartilhado.
 
-3. O QUE É UM REPOSITÓRIO?
+\
+**3. O QUE É UM REPOSITÓRIO?**
 
 Um repositório é um espaço utilizado para armazenar e organizar os arquivos de um projeto.
 
@@ -68,21 +67,20 @@ Podemos imaginar um repositório como uma pasta que guarda documentos, imagens, 
 
 Por exemplo, um estudante pode criar um repositório chamado meus-estudos para guardar suas anotações e atividades.
 
-3.1 Repositório público e privado
+\
+**3.1 Repositório público e privado**
 
 Na criação de um repositório, o GitHub oferece duas opções principais de visibilidade.
 
-Público:
-
-Qualquer pessoa pode visualizar o conteúdo.
-É útil para compartilhar projetos e materiais de estudo.
-Outras pessoas podem encontrar o projeto pela internet.
+Público:\
+Qualquer pessoa pode visualizar o conteúdo.\
+É útil para compartilhar projetos e materiais de estudo.\
+Outras pessoas podem encontrar o projeto pela internet.\
 Não significa que qualquer pessoa possa editar diretamente o repositório.
 
-Privado:
-
-Somente o proprietário e as pessoas autorizadas podem acessar.
-É indicado para projetos que precisam de acesso restrito.
+Privado:\
+Somente o proprietário e as pessoas autorizadas podem acessar.\
+É indicado para projetos que precisam de acesso restrito.\
 Permite convidar colaboradores específicos.
 
 Qual escolher?
@@ -93,9 +91,10 @@ Um repositório privado pode ser escolhido quando o grupo deseja limitar o acess
 
 Mesmo em repositórios privados, não se deve publicar senhas, tokens, documentos pessoais ou informações confidenciais.
 
-4. PRIMEIROS PASSOS NO GITHUB
+\
+**4. PRIMEIROS PASSOS NO GITHUB**
 
-4.1 Criando uma conta
+**4.1 Criando uma conta**
 
 Para começar, é necessário possuir uma conta no GitHub.
 
@@ -104,24 +103,19 @@ Clique em Sign up (Cadastrar-se).
 
 <img width="1919" height="932" alt="image" src="https://github.com/user-attachments/assets/f43007b8-32b6-46a5-87f8-a946f2e3aef5" />
 
-Informe seu endereço de e-mail.
-
-Crie uma senha segura.
-
-Escolha um nome de usuário.
-
-Siga as etapas de confirmação solicitadas.
-
-Acesse sua conta.
-
+Informe seu endereço de e-mail.\
+Crie uma senha segura.\
+Escolha um nome de usuário.\
+Siga as etapas de confirmação solicitadas.\
+Acesse sua conta.\
 Dica: nunca compartilhe sua senha com colegas. Cada integrante deve utilizar sua própria conta.
 
 <img width="1919" height="1079" alt="Captura de tela 2026-11-06 084918" src="https://github.com/user-attachments/assets/cd1d043c-34f5-4fba-b9ad-e8f7fe65d5ce" />
 
-4.2 Criando seu primeiro repositório
+\
+**4.2 Criando seu primeiro repositório**
 
-Depois de entrar na plataforma:
-
+Depois de entrar na plataforma:\
 Acesse https://github.com.
 Clique no botão de criação de um novo repositório ou acesse https://github.com/new.
 
@@ -143,47 +137,42 @@ Clique em Create repository.
 
 Pronto! Seu primeiro repositório foi criado.
 
-4.3 O que é README?
+\
+**4.3 O que é README?**
 
 README é um arquivo utilizado para apresentar informações importantes sobre um projeto.
 
 Normalmente, ele aparece na página inicial do repositório e ajuda os visitantes a entenderem o objetivo do trabalho.
 
-Um README pode apresentar:
-
-Nome do projeto.
-Objetivo.
-Integrantes.
-Instruções de utilização.
-Links para outros arquivos.
+Um README pode apresentar:\
+Nome do projeto.\
+Objetivo.\
+Integrantes.\
+Instruções de utilização.\
+Links para outros arquivos.\
 Referências.
 
-Exemplo de README:
-
+Exemplo de README:\
 Meu primeiro projeto
 
 Este repositório foi criado para aprender a utilizar o GitHub.
 
-Objetivos
-Aprender Git e GitHub.
-Organizar arquivos.
+Objetivos:\
+Aprender Git e GitHub.\
+Organizar arquivos.\
 Trabalhar em equipe.
-Responsável
-
-Nome do estudante.
 
 Imagem de exemplo:
 <img width="1317" height="1028" alt="Captura de tela 2026-11-06 090310" src="https://github.com/user-attachments/assets/f287861f-05e3-45c2-99c6-7704182f4053" />
 
-5. CONHECENDO O MARKDOWN
+\
+**5. CONHECENDO O MARKDOWN**
 
 Markdown é uma linguagem simples de formatação de texto utilizada no GitHub.
 
 Ela permite criar títulos, listas, links, imagens e textos destacados sem precisar utilizar programas complexos.
 
 Veja alguns exemplos:
-
-O que queremos fazer	Como escrever
 
 Título(#)	# Meu título
 
@@ -205,9 +194,10 @@ Imagem de exemplo:
 
 O Markdown facilita a criação de documentos organizados e legíveis.
 
-6. ARQUIVOS E CONTROLE DE VERSÕES
+\
+**6. ARQUIVOS E CONTROLE DE VERSÕES**
 
-6.1 Como criar um arquivo pelo navegador
+**6.1 Como criar um arquivo pelo navegador**
 
 Não é necessário instalar programas para criar arquivos diretamente no GitHub.
 
@@ -238,7 +228,8 @@ Confirme o commit.
 
 O arquivo ficará disponível no repositório.
 
-6.2 Como enviar um arquivo existente
+\
+**6.2 Como enviar um arquivo existente**
 
 Também é possível enviar arquivos que já estão salvos no computador.
 
@@ -266,7 +257,8 @@ Confirme em Commit changes.
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f27dd9f2-6402-44aa-8ef6-5130bbb03e3f" />
 
-6.3 O que é commit?
+\
+**6.3 O que é commit?**
 
 Commit é o registro de uma alteração realizada no projeto.
 
@@ -274,21 +266,17 @@ Cada commit possui informações que ajudam a identificar o que foi modificado, 
 
 É importante utilizar mensagens claras.
 
-Exemplos de mensagens:
-
+Exemplos de mensagens:\
 Adiciona arquivo README.
-
-Corrige introdução da cartilha.
-
-Adiciona imagem do repositório.
-
-Atualiza informações sobre GitHub.
-
+Corrige introdução da cartilha.\
+Adiciona imagem do repositório.\
+Atualiza informações sobre GitHub.\
 Melhora explicação sobre commits.
 
 Uma mensagem como "alteração" é pouco explicativa. Prefira indicar exatamente o que foi feito.
 
-6.4 O que é histórico de alterações?
+\
+**6.4 O que é histórico de alterações?**
 
 O histórico de alterações, também chamado de histórico de commits, permite consultar os registros realizados no projeto.
 
@@ -313,19 +301,22 @@ Assim, podemos acompanhar a evolução do projeto e identificar as contribuiçõ
 
 <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/2f732b32-f46d-4e01-a4ec-2a9daa87b5dc" />
 
-7. COLABORAÇÃO NO GITHUB
+\
+**7. COLABORAÇÃO NO GITHUB**
 
 Uma das principais vantagens do GitHub é permitir que várias pessoas participem de um mesmo projeto.
 
 Para isso, existem recursos como colaboradores, branches, pull requests e merge.
 
-7.1 Como convidar colaboradores
+\
+**7.1 Como convidar colaboradores**
 
 Um colaborador é uma pessoa que recebe autorização para participar de um repositório.
 
 Para convidar alguém:
 
 Abra o repositório.
+
 Acesse Settings (Configurações).
 
 <img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/6b65e136-709a-49bf-a99f-c5921d9a6956" />
@@ -354,7 +345,8 @@ Depois de aceitar, o colaborador poderá acessar o repositório de acordo com as
 
 No trabalho em grupo, todos devem utilizar suas próprias contas.
 
-7.2 O que é branch?
+\
+**7.2 O que é branch?**
 
 Branch significa ramificação.
 
@@ -366,7 +358,8 @@ Ele pode criar uma branch chamada melhoria-guia, realizar as mudanças nela e ap
 
 Dessa maneira, o conteúdo principal permanece separado enquanto a alteração está sendo preparada.
 
-7.3 Como criar uma branch pelo navegador
+\
+**7.3 Como criar uma branch pelo navegador**
 
 Abra o repositório.
 
@@ -386,27 +379,24 @@ Confirme a criação.
 
 Agora você poderá realizar alterações nessa nova ramificação.
 
-7.4 O que é pull request?
+\
+**7.4 O que é pull request?**
 
 Pull request significa solicitação de alteração ou solicitação de integração.
 
 É um recurso utilizado para apresentar alterações feitas em uma branch e solicitar que elas sejam analisadas antes de serem incorporadas à branch principal.
 
-Com ele, os integrantes podem:
-
-Visualizar o que foi modificado.
-
-Comparar versões.
-
-Comentar as alterações.
-
-Sugerir correções.
-
+Com ele, os integrantes podem:\
+Visualizar o que foi modificado.\
+Comparar versões.\
+Comentar as alterações.\
+Sugerir correções.\
 Aprovar a proposta antes da integração.
 
 Exemplo: um integrante melhora uma explicação da cartilha e abre um pull request para que outro estudante revise o conteúdo.
 
-7.5 Como criar um pull request
+\
+**7.5 Como criar um pull request**
 
 Acesse a aba Pull requests.
 
@@ -438,7 +428,8 @@ Confirme a criação.
 
 <img width="1919" height="935" alt="image" src="https://github.com/user-attachments/assets/7afa68a7-7cff-4c5e-a061-60e9b7d8e89d" />
 
-7.6 O que é merge?
+\
+**7.6 O que é merge?**
 
 Merge significa mesclagem ou integração.
 
@@ -470,7 +461,8 @@ Volte para a branch main.
 
 Confira se a alteração foi incorporada.
 
-8. CUIDADOS AO COMPARTILHAR ARQUIVOS
+\
+**8. CUIDADOS AO COMPARTILHAR ARQUIVOS**
 
 Antes de publicar qualquer arquivo no GitHub, é importante tomar alguns cuidados.
 
@@ -492,7 +484,8 @@ Revise os arquivos antes de confirmar as alterações.
 
 Lembre-se: um repositório público pode ser acessado por qualquer pessoa na internet.
 
-9. CONCLUSÃO
+\
+**9. CONCLUSÃO**
 
 O GitHub é uma ferramenta importante para organizar projetos, acompanhar alterações e facilitar a colaboração entre pessoas.
 
@@ -504,7 +497,9 @@ Mesmo para quem está começando, é possível utilizar diversos recursos do Git
 
 Esperamos que esta cartilha ajude outras pessoas a conhecer e utilizar a plataforma.
 
-10. REFERÊNCIAS E USO DA INTELIGÊNCIA ARTIFICIAL
+\
+**10. REFERÊNCIAS E USO DA INTELIGÊNCIA ARTIFICIAL**
+
 Documentação oficial do GitHub
 Introdução e prática Hello World: https://docs.github.com/pt/get-started/using-github/hello-world
 Arquivos nos repositórios: https://docs.github.com/pt/repositories/working-with-files
